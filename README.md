@@ -8,6 +8,9 @@ To illustrate a bit further the interesting use cases of this problem, we can im
 
 The dataset presented to the competitors is an obfuscated version of high-quality market data. Therefore, details such as the nature of each investment vehicle, the frequency at which dates are measured (although it is given that it is constant interval) and the definition of each feature, are not available.
 
+----
+
+
 **Competition phases and format**
 
 This competition is focused on forecasting and has two phases. The first is the submission phase where participants can submit and test their models. The second phase, which is automatic, involves running the models against unobserved live market data.
@@ -22,3 +25,11 @@ Why the two-phase approach?
 * Only the performance on Out-of-Sample data will be taken into account.
 * Reproducibility of the winning solution is ensured.
 * Participants won't be able to exploit data leaks.
+
+----
+
+**My take**
+
+Even after the submission phase, sharing the data is prohibited, thus I uploaded only the notebooks and python files:
+
+* exploratory_data_analysis.ipynb - this file was provided by the Organizer and I did a little bit of code refactoring.
