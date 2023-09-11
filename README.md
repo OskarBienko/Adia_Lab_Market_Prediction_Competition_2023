@@ -33,3 +33,4 @@ Why the two-phase approach?
 Even after the submission phase, sharing the data is prohibited, thus I uploaded only the notebooks and python files:
 
 * exploratory_data_analysis.ipynb - this file was provided by the Organizer and I did a little bit of code refactoring.
+* feature_importance.ipynb - in this file I detailed my approach to feature selection.
