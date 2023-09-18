@@ -34,3 +34,4 @@ Even after the submission phase, sharing the data is prohibited, thus I uploaded
 
 * exploratory_data_analysis.ipynb - this file was provided by the Organizer and I did a little bit of code refactoring.
 * feature_importance.ipynb - in this file I detailed my approach to feature selection.
+* baseline_modeling.ipynb - this file presents scores of models fitted with all available features, serving as benchmarks to evaluate the impact of feature selection. 
