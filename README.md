@@ -32,6 +32,7 @@ Why the two-phase approach?
 
 Even after the submission phase, sharing the data is prohibited, thus I uploaded only the notebooks and python files:
 
-* exploratory_data_analysis.ipynb - this file was provided by the Organizer and I did a little bit of code refactoring.
-* feature_importance.ipynb - in this file I detailed my approach to feature selection.
-* baseline_modeling.ipynb - this file presents scores of models fitted with all available features, serving as benchmarks to evaluate the impact of feature selection. 
+* exploratory_data_analysis.ipynb - Refactored code from the Organizer's file.
+* feature_importance.ipynb - Detailed feature selection approach.
+* baseline_modeling.ipynb - Benchmark scores with all features.
+* modeling.ipynb - Scores with selected features and comparison to baseline scores.
